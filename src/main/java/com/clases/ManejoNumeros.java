@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 public class ManejoNumeros {
 
     // 1 Multiplicador
-    public static void multiplicador(ArrayList<Integer> lista, int factor) {
+    public static void multiplicarArrayList(ArrayList<Integer> lista, int factor) {
         if (lista == null) {
             return;
         }
